@@ -1,7 +1,10 @@
-### Hola!! soy Bertha Alicia 👋
+### Hola!! 👀
+
+## Mi nombre es Bertha Alicia 👋
 
 
-### Skills:<br />
+
+### Habilidades:<br />
 <div width=100%>
     <a href="https://es.reactjs.org/" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'></a>
     <a href="https://es.redux.js.org/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' alt='redux' height='40'></a> 
@@ -10,9 +13,6 @@
     <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'></a> 
     <a href="https://nodejs.org/es/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'></a> 
     <a href="https://www.postgresql.org/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'></a> 
-    <a href="https://www.typescriptlang.org/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'></a> 
-    <a href="https://www.mongodb.com/es"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'></a>  
-    <a href="https://sass-lang.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' height='40'></a> 
 </div>
 
   

@@ -28,4 +28,4 @@ Soy Full Stack Web Developer
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/ferwinred)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ferwinarias//)   <a href = "mailto: ferwin.arias@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'></a>
 </br>
 
-    ![Snake animation](https://github.com/alibertiux/alibertiux/blob/output/github-contribution-grid-snake.svg)
+ 

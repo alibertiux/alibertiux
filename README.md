@@ -1,6 +1,8 @@
-### Hola!! 👀
+## Hola!! 👀
 
-## Mi nombre es Bertha Alicia 👋
+### Mi nombre es Bertha Alicia 👋
+
+Soy Full Stack Web Developer 
 
 
 
@@ -14,8 +16,16 @@
     <a href="https://nodejs.org/es/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='30'></a> 
     <a href="https://www.postgresql.org/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='30'></a> 
 </div>
+<br/>
 
-  
-##
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alibertiux&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibertiux&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</br>
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/ferwinred)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ferwinarias//)   <a href = "mailto: ferwin.arias@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'></a>
+</br>
+
+    ![Snake animation](https://github.com/alibertiux/alibertiux/blob/output/github-contribution-grid-snake.svg)

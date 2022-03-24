@@ -2,7 +2,9 @@
 
 ### Mi nombre es Bertha Alicia 👋
 
-Soy Full Stack Web Developer 
+Me encuentro estudiando un Bootcamp 🚀 en HENRY, Full Stack Web Developer,
+y me encantan 💕💕 los conocimientos que y retos que te encuentras al programar 👩‍💻
+y a seguir aprendiendo 🧠 que el conocimiento aqui no termina 💪
 
 
 
